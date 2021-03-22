@@ -3,8 +3,10 @@
 
 We offer managed services through Azure Lighthouse suited to meet our customers' IT Infrastructure configuration needs: Integrated IT service management of workflow, automation and governance. Azure Lighthouse provides capabilities to perform cross-tenant management at scale.  We do this by having the ability to view and manage multiple customers from a single context. [Learn more](https://azure.com/lighthouse).
 
-1st Level Support and Ticket Management – Space Hellas Service Desk
+Space Hellas Service Desk - 1st Level Support and Ticket Management
+
 Space Hellas Service Desk is responsible 24/7 to receive new support requests from our customers via phone or Customer's ticketing system. Service Desk engineers will be also keeping track of the existing ones by updating Customer’s ticketing system  with case updates. Finally, Service Desk engineers are responsible to escalate each support case to the appropriate Azure engineer (2nd level). 
+
 Service Desk Telephones:
 +30-210-6504433 – Mon-Fri 7:00 – 20:00 local time
 +30-210-6504230 – After working hours and Weekends        
