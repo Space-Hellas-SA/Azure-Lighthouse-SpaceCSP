@@ -9,7 +9,7 @@ As far as Managed Services Space Hellas provides NOC/SOC facilities located in E
 
 Space Hellas Service Desk is responsible 24/7 to receive new support requests from our customers via phone or Customer's ticketing system. Service Desk engineers are responsible to escalate each support case to the appropriate Azure engineer (2nd level). 
 
-##Service Desk Telephones:
+## Service Desk Telephones:
 * +30-210-6504433 – Mon-Fri 7:00 – 20:00 local time
 * +30-210-6504230 – After working hours and Weekends        
 * Service Desk Email: tac@space.gr 
