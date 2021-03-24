@@ -14,7 +14,7 @@ Space Hellas Service Desk is responsible 24/7 to receive new support requests fr
 * +30-210-6504230 – After working hours and Weekends        
 * Service Desk Email: tac@space.gr 
 
-## Space Hellas Managed Services Templates
+### Space Hellas Managed Services Templates
 This repository contains samples to help you use Azure Resource Manager to oboard configure [Azure delegated resource management](https://docs.microsoft.com/azure/lighthouse/concepts/azure-delegated-resource-management) and to configure monitoring and management of customer environments.
 
 The templates shown below can be used to [onboard new customers to Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer). You can deploy these manually, or use the "Deploy to Azure" buttons to deploy directly in the Azure portal.
