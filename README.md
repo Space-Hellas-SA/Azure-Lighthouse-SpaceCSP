@@ -1,7 +1,7 @@
 
 # Space Hellas Microsoft Azure Lighthouse - Arc
 
-We offer managed services through Azure Lighthouse and Arc suited to meet our customers' Cloud transformation objectives: administration  and service management of the cloud migrated infrastructure, technical support, automation and governance. Azure Lighthouse provides capabilities to perform cross-tenant management at scale.  We do this by having the ability to view and manage multiple customers from a single context. [Learn more](https://azure.com/lighthouse).
+We offer managed services through Azure Lighthouse and Arc suited to meet our customers Cloud transformation objectives: administration  and service management , technical support, automation and governance. Azure Lighthouse provides capabilities to perform cross-tenant management at scale.  We do this by having the ability to view and manage multiple customers from a single context. [Learn more](https://azure.com/lighthouse).
 
 As far as Managed Services Space Hellas provides NOC/SOC facilities located in EU and provide 24 hour level -1 support while local skills can be use to interact with our customers.
 
